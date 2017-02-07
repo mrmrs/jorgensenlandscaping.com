@@ -1,7 +1,7 @@
 {
-  "name": "tachyons",
-  "version": "4.6.2",
-  "description": "Functional CSS for humans",
+  "name": "jorgensenlandscaping.com",
+  "version": "1.0.0",
+  "description": "Website for Jorgensen Landscaping",
   "author": "mrmrs",
   "style": "css/tachyons.min.css",
   "main": "css/tachyons.css",
@@ -9,15 +9,9 @@
     "css",
     "src"
   ],
-  "repository": "tachyons-css/tachyons",
+  "repository": "mrmrs/jorgensenlanding.com",
   "keywords": [
-    "css",
-    "oocss",
-    "postcss",
-    "functional css",
-    "design",
-    "responsive",
-    "performance"
+    "css"
   ],
   "license": "MIT",
   "devDependencies": {
@@ -32,10 +26,6 @@
     {
       "name": "adam morse",
       "email": "hi@mrmrs.cc"
-    },
-    {
-      "name": "john otander",
-      "url": "http://johnotander.com"
     }
   ],
   "scripts": {
